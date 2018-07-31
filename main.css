@@ -540,6 +540,9 @@ h2 {
 	display: -ms-flex;
 	display: flex;
 }
+.news_block2 {
+	margin-bottom: 20px;
+}
 
 @media only screen and (max-width: 925px) {
 	.general_block {
@@ -552,7 +555,7 @@ h2 {
 		margin: 0;
 	}
 	.video_block {
-		margin: 0;
+		margin: 0 0 30px;
 		width: 100%;
 		-webkit-flex-direction: row;
 		-moz-flex-direction: row;
