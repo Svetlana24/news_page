@@ -734,6 +734,9 @@ h2 {
 		-moz-flex-direction: column;
 		flex-direction: column;
 	}
+	.list {
+		margin-left: 10px;
+	}
 }
 @media only screen and (max-width: 355px) {
 	.title_line, .news_block1 .title_line {
